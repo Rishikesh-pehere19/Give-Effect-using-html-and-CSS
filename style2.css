@@ -1,0 +1,312 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.imgA{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgA img{
+    
+height:300px;
+
+}
+
+
+.blackB{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(-199px, -501px);
+    opacity: 0.5;
+}
+
+.imgA:hover .blackB{
+    transform: translate(0px,-300px);
+    transition:all 3s;
+
+}
+
+
+
+.imgL{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgL img{
+    
+height:300px;
+
+}
+
+
+.blackD{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(195px,-499px);
+    opacity: 0.5;
+}
+
+.imgL:hover .blackD{
+    transform: translate(0px,-302px);
+    transition:all 3s;
+
+}
+
+
+.imgPr{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgPr img{
+    
+height:300px;
+
+}
+
+
+.blackPo{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(-199px,-107px);
+    opacity: 0.5;
+}
+
+.imgPr:hover .blackPo{
+    transform: translate(0px,-302px);
+    transition:all 3s;
+
+}
+
+
+
+
+.imgK{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgK img{
+    
+height:300px;
+
+}
+
+
+.blackJ{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(202px,-102px);
+    opacity: 0.5;
+}
+
+.imgK:hover .blackJ{
+    transform: translate(0px,-302px);
+    transition:all 3s;
+
+}
+
+
+
+.imgN{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgN img{
+    
+height:300px;
+
+}
+
+
+.blackM{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(-201px,-304px);
+    opacity: 0.5;
+}
+
+.imgN:hover .blackM{
+    transform: translate(0px,-302px);
+    transition:all 3s;
+
+}
+
+
+.imgY{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgY img{
+    
+height:300px;
+
+}
+
+
+.blackX{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(-2px,-505px);
+    opacity: 0.5;
+}
+
+.imgY:hover .blackX{
+    transform: translate(0px,-302px);
+    transition:all 3s;
+
+}
+
+
+
+
+.imgYi{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgYi img{
+    
+height:300px;
+
+}
+
+
+.blackXi{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(200px,-303px);
+    opacity: 0.5;
+}
+
+.imgYi:hover .blackXi{
+    transform: translate(0px,-302px);
+    transition:all 3s;
+
+}
+
+
+
+
+.imgYio{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgYio img{
+    
+height:300px;
+
+}
+
+
+.blackXio{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(0px,-105px);
+    opacity: 0.5;
+}
+
+.imgYio:hover .blackXio{
+    transform: translate(0px,-302px);
+    transition:all 3s;
+
+}
+
+
+
+
+
+
+.imgYiq{
+    height: 200px;
+    width: 200px;
+    border: solid 1px #130101;
+    box-shadow: 8px 7px 5px 4px #181111cc;
+  overflow: hidden;
+    border-radius:4px;
+    margin:100px;
+  
+
+}
+.imgYiq img{
+    
+height:300px;
+
+}
+
+
+.blackXiq{
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+    transform:translate(0px,-300px);
+
+    opacity: 0.5;
+}
+
+.imgYiq:hover .blackXiq{
+    transform: translate(0px,0px);
+    transition: 3s;
+
+}
